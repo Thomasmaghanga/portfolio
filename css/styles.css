@@ -4,6 +4,7 @@ body {
 h1 {
     color: rgb(255, 165, 0);
     text-align: center;
+    background-color: darkseagreen;
   }
 h2 {
     color: orange;
@@ -13,7 +14,8 @@ img {
     display: block;
     margin-left: auto;
     margin-right: auto;
-    width: 50%
+    width: 50%;
+    border-radius: 50%;
   }
 ul {
     text-align: center;
@@ -29,3 +31,12 @@ p {
     font-family: sans-serif;
     font-size: 20px;
   }
+footer {
+    text-align: center;
+}
+.projects {
+    background-color: darkcyan;
+}
+.about {
+    background-color: aqua;
+}
